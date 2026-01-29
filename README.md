@@ -57,6 +57,13 @@ It is designed with a clean UI and focuses on key KPIs, trends, and comparisons 
 
 ---
 
+## 📊 Interactive Dashboard
+
+Explore the live interactive Power BI dashboard by clicking linke below:
+🔗 [**Explore the Power BI Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiNGE4MjFiYWUtYzBjYi00YmQ5LWJkMWMtMjRkZGU4NTc4ODYwIiwidCI6IjJiYjZlNWJjLWMxMDktNDdmYi05NDMzLWMxYzZmNGZhMzNmZiIsImMiOjl9)
+
+---
+
 ## 🛠️ Tools & Technologies
 
 - **Power BI** (Data modeling, visualization, and reporting)
